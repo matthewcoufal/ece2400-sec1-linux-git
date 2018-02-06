@@ -1,2 +1,2 @@
 script:
-  - grep pink README.md
+  - grep red README.md
