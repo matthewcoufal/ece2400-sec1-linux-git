@@ -4,3 +4,5 @@ red
 orange
 green
 purple
+silver
+gold
